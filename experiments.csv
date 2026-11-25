@@ -1,0 +1,6 @@
+name,answer_accuracy,Q,mean_input_tokens,mean_output_tokens,mean_llm_calls,mean_cost,median_latency_ms
+closed,0.866667,,228.7,247.5,1.000000,1474.6,12602.0
+lexical_direct,0.666667,0.625833,4094.7,276.8,1.000000,5457.9,31248.0
+final,0.933333,0.863167,4222.5,464.0,2.000000,6590.5,39112.0
+without_dense,0.866667,0.836778,4437.1,418.5,2.000000,6622.9,39873.0
+without_scalar,0.933333,0.871738,4702.1,457.5,2.066667,7061.1,39596.0
